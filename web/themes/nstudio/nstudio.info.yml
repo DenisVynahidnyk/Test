@@ -1,0 +1,13 @@
+name: nstudio
+type: theme
+base theme: bartik
+description: custom theme for nstudio
+core: 8.x
+libraries:
+  - nstudio/global-styling
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: Footer
