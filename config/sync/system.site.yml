@@ -1,0 +1,14 @@
+uuid: b248e86b-9f8b-4580-a1fa-b0c1f39fb347
+name: drupalgit
+mail: Dgolubchicov@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

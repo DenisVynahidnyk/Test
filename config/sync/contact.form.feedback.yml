@@ -1,0 +1,14 @@
+uuid: 30f97def-c84c-41b5-8cf1-16846f6fc396
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - Dgolubchicov@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
